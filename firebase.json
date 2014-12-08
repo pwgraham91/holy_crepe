@@ -1,0 +1,9 @@
+{
+  "firebase": "holy-crepe",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
