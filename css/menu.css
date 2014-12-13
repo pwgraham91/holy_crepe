@@ -207,3 +207,19 @@ hr {
 #smallHoly {
     font-family: Arial;
 }
+
+.menuClass {
+    text-align: center;
+}
+
+.dishTitle {
+    text-align: center;
+}
+
+.dishDescription {
+    text-align: center;
+}
+
+.qualifier {
+    text-align: center;
+}
