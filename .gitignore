@@ -52,4 +52,8 @@ docs/_build/
 
 # PyBuilder
 target/
+<<<<<<< HEAD
 .idea
+=======
+.idea/
+>>>>>>> 0c4e730a8b80782e6c6eaf8e4968b1840b9a516a
